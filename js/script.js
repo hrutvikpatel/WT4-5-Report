@@ -1,7 +1,7 @@
 const goals = [
   {
-    title: "Goal 1: Technological Literacy",
-    body: "Learning Ruby and Rspec were relatively easy as they are just a different programming language and testing framework which are similar to others that I have learned in the past. The true challenge was wrapping my head around Rails. I tackled the steep learning curve by researching Rails basics and asking my Team Lead to assign me challenging backend work. Over time, I gained more knowledge and began to understand how the layers of logic tied together.",
+    title: "Goal 1: Integrative Communication",
+    body: "	I now approach conversations with an open mind and often ask questions to better understand other's opinions and often find that through questions we come to a better conclusion that has a team concensus.",
     status: "achieved",
   },
   {
