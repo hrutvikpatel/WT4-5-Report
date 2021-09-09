@@ -25,8 +25,8 @@ const goals = [
     status: "achieved"
   },
   {
-    title: "Goal 6: Personal Learning Goal",
-    body: "",
+    title: "Goal 6: Written Communication",
+    body: "An important part of software development is documentation. In my last co-op term, my overall goal was to focus on all the little tasks a developer needs to do daily to improve as a developer overall. My plan was to practice writing technical documentation when deemed appropriate and suitable for the ticket at hand when the ticket does not specify that documentation is needed. I was able to successfully achieve this goal as I got lots of opportunities to write documentation regarding Okta's research, findings, and configuration. That other developers and managers were able to understand and effectively utilize to make their work easier.",
     status: "achieved"
   },
 ];
